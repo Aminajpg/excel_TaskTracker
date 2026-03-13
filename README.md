@@ -31,6 +31,9 @@ The goal of this project was to practice:
 * Using formulas to summarize information
 * Building a simple dashboard in Excel
 
+## Dashboard
+
+![Dashboard](TaskTracker.png)
 
 ## Note
 
