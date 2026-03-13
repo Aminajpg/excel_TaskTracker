@@ -11,7 +11,6 @@ The main focus of the project was practicing Excel logic and formulas such as co
 ## Key Skills Practiced
 
 * COUNTIF
-* IF statements
 * TODAY function
 * Basic dashboard creation
 * Data organization in Excel
@@ -31,6 +30,7 @@ The goal of this project was to practice:
 * Working with structured datasets
 * Using formulas to summarize information
 * Building a simple dashboard in Excel
+
 
 ## Note
 
